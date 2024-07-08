@@ -1,2 +1,2 @@
-const baseUrl = "https://shinigami.id/";
+const baseUrl = "https://shinigamitoon.xyz/";
 module.exports = baseUrl;
